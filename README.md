@@ -16,6 +16,14 @@
 </div>
 
 ---
+<!--# 📊 GitHub Stats:-->
+<!--![](https://github-readme-stats.vercel.app/api?username=kirrishima&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kirrishima&theme=cobalt&hide_border=false)<br/> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopengin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+</div>
+
+---
 <h2 align="center">📫 Reach me on:</h2>
 <p align="center">
   <a href="mailto:sergey12.kravchenko@gmail.com">
@@ -29,10 +37,3 @@
   </a>
 </p>
 
----
-<!--# 📊 GitHub Stats:-->
-<!--![](https://github-readme-stats.vercel.app/api?username=kirrishima&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kirrishima&theme=cobalt&hide_border=false)<br/> -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopengin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
