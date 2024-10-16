@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/devopengin" target="_blank">Sergey</a> 
+<h1 align="center"><code style="color:red">Hi there</code>, I'm <a href="https://github.com/devopengin" target="_blank">Sergey</a> 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Software%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=2336BCF7&vCenter=true&size=20"></a>
