@@ -15,7 +15,19 @@
 </div>
 
 ---
-
+<h2 align="center">📫 Reach me on:</h2>
+<p align="center">
+  <a href="mailto:sergey12.kravchenko@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://t.me/bettercallfor">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://vk.com/skravchenko1">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+  </a>
+</p>
+---
 <!--# 📊 GitHub Stats:-->
 <!--![](https://github-readme-stats.vercel.app/api?username=kirrishima&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kirrishima&theme=cobalt&hide_border=false)<br/> -->
