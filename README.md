@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Sergey</h1>
-<span style="color:red">Этот текст будет красным</span>
+<h1 align="center"><code>Hi there, I'm Sergey</code></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Software%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=2336BCF7&vCenter=true&size=20"></a>
@@ -7,10 +6,8 @@
 
 ---
 <!--# 📊 GitHub Stats:-->
-<!--![](https://github-readme-stats.vercel.app/api?username=devopengin&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=devopengin&theme=cobalt&hide_border=false)<br/> -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopengin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopengin&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 <!--# 💻 Tech Stack:-->
 <div align="center">
