@@ -9,7 +9,7 @@
 <!--![](https://github-readme-stats.vercel.app/api?username=devopengin&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devopengin&theme=cobalt&hide_border=false)<br/> -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopengin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopengin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"/>
 </div>
 <!--# 💻 Tech Stack:-->
 <div align="center">
