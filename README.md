@@ -1,4 +1,10 @@
-## Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devopengin&label=Profile%20views&color=0e75b6&style=flat" alt="devopengin" /> </p>
+
+<h1 align="center">Hi there, I'm <a href="https://github.com/devopengin" target="_blank">Sergey</a> 
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Data%20Engineer;&font=Fira%20Code&center=true&width=440&height=45&color=2336BCF7&vCenter=true&size=20"></a>
+</p>
 ---
 <!--# 💻 Tech Stack:-->
 <div align="center">
