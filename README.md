@@ -1,19 +1,5 @@
 ## Hi there 👋
-
-<!--
-**devopengin/devopengin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--# 💻 Tech Stack:-->
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" title="C#"/>&nbsp;
@@ -21,4 +7,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40" alt="Sass" title="Sass"/>&nbsp;
+</div>
+
+<!--# 📊 GitHub Stats:-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopengin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
