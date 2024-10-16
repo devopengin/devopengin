@@ -14,6 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40" alt="Sass" title="Sass"/>&nbsp;
 </div>
+
 ---
 <h2 align="center">📫 Reach me on:</h2>
 <p align="center">
@@ -27,6 +28,7 @@
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
 </p>
+
 ---
 <!--# 📊 GitHub Stats:-->
 <!--![](https://github-readme-stats.vercel.app/api?username=kirrishima&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
