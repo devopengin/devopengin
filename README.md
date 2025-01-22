@@ -6,7 +6,7 @@
 ---
 <!--# 📊 GitHub Stats:-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopengin&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopengin&theme=donut&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 <p></p>
 <!--# 💻 Tech Stack:-->
