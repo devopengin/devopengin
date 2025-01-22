@@ -22,7 +22,7 @@
 ---
 <h2 align="center">📫 Reach me on:</h2>
 <p align="center">
-  <a href="mailto:sergey12.kravchenko@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=sergey12.kravchenko@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://t.me/bettercallfor">
